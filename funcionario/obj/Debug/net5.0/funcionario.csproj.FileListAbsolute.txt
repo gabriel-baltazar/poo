@@ -1,0 +1,16 @@
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/funcionario.csprojAssemblyReference.cache
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/funcionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/funcionario.AssemblyInfoInputs.cache
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/funcionario.AssemblyInfo.cs
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/funcionario.csproj.CoreCompileInputs.cache
+/home/baltazar/dev/poo/funcionario/bin/Debug/net5.0/funcionario
+/home/baltazar/dev/poo/funcionario/bin/Debug/net5.0/funcionario.deps.json
+/home/baltazar/dev/poo/funcionario/bin/Debug/net5.0/funcionario.runtimeconfig.json
+/home/baltazar/dev/poo/funcionario/bin/Debug/net5.0/funcionario.runtimeconfig.dev.json
+/home/baltazar/dev/poo/funcionario/bin/Debug/net5.0/funcionario.dll
+/home/baltazar/dev/poo/funcionario/bin/Debug/net5.0/ref/funcionario.dll
+/home/baltazar/dev/poo/funcionario/bin/Debug/net5.0/funcionario.pdb
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/funcionario.dll
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/ref/funcionario.dll
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/funcionario.pdb
+/home/baltazar/dev/poo/funcionario/obj/Debug/net5.0/funcionario.genruntimeconfig.cache

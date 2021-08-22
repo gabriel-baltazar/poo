@@ -1,0 +1,16 @@
+/home/baltazar/dev/poo/produto/bin/Debug/net5.0/produto
+/home/baltazar/dev/poo/produto/bin/Debug/net5.0/produto.deps.json
+/home/baltazar/dev/poo/produto/bin/Debug/net5.0/produto.runtimeconfig.json
+/home/baltazar/dev/poo/produto/bin/Debug/net5.0/produto.runtimeconfig.dev.json
+/home/baltazar/dev/poo/produto/bin/Debug/net5.0/produto.dll
+/home/baltazar/dev/poo/produto/bin/Debug/net5.0/ref/produto.dll
+/home/baltazar/dev/poo/produto/bin/Debug/net5.0/produto.pdb
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/produto.csprojAssemblyReference.cache
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/produto.GeneratedMSBuildEditorConfig.editorconfig
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/produto.AssemblyInfoInputs.cache
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/produto.AssemblyInfo.cs
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/produto.csproj.CoreCompileInputs.cache
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/produto.dll
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/ref/produto.dll
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/produto.pdb
+/home/baltazar/dev/poo/produto/obj/Debug/net5.0/produto.genruntimeconfig.cache
