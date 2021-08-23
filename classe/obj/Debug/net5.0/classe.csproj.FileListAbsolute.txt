@@ -14,3 +14,19 @@
 /home/baltazar/dev/poo/classe/obj/Debug/net5.0/ref/classe.dll
 /home/baltazar/dev/poo/classe/obj/Debug/net5.0/classe.pdb
 /home/baltazar/dev/poo/classe/obj/Debug/net5.0/classe.genruntimeconfig.cache
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\classe.csproj.AssemblyReference.cache
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\classe.AssemblyInfoInputs.cache
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\classe.AssemblyInfo.cs
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\classe.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\classe.dll
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\ref\classe.dll
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\classe.pdb
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\bin\Debug\net5.0\classe.exe
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\bin\Debug\net5.0\classe.deps.json
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\bin\Debug\net5.0\classe.runtimeconfig.json
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\bin\Debug\net5.0\classe.runtimeconfig.dev.json
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\bin\Debug\net5.0\classe.dll
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\bin\Debug\net5.0\ref\classe.dll
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\bin\Debug\net5.0\classe.pdb
+C:\Users\Gabriel Baltazar\dev\git\poo\classe\obj\Debug\net5.0\classe.genruntimeconfig.cache

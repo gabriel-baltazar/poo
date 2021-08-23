@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/baltazar/.nuget/packages/": {}
+    "C:\\Users\\Gabriel Baltazar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/baltazar/dev/poo/classe/classe.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Baltazar\\dev\\git\\poo\\classe\\classe.csproj",
       "projectName": "classe",
-      "projectPath": "/home/baltazar/dev/poo/classe/classe.csproj",
-      "packagesPath": "/home/baltazar/.nuget/packages/",
-      "outputPath": "/home/baltazar/dev/poo/classe/obj/",
+      "projectPath": "C:\\Users\\Gabriel Baltazar\\dev\\git\\poo\\classe\\classe.csproj",
+      "packagesPath": "C:\\Users\\Gabriel Baltazar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel Baltazar\\dev\\git\\poo\\classe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/baltazar/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Gabriel Baltazar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

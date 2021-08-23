@@ -11,14 +11,29 @@ namespace classe
             objetoConta.saldo = 500;
             objetoConta.titular = "Gabriel";
             objetoConta.Mostrar();
+
             Console.WriteLine("__Conta 2__");
             Conta conta2 = new Conta();
             conta2.numero = 200;
             conta2.saldo = 600;
             conta2.titular = "Baltazar";
             conta2.Mostrar();
+            
+            conta2.Transferir(200, objetoConta);
+            Console.WriteLine("Apos transferencia 1!");
+            conta2.Mostrar();
+            objetoConta.Mostrar();
 
-            Conta c3 = new Conta();
+            conta2.Transferir1(500,objetoConta);
+            Console.WriteLine("Apos transferencia 2!");
+            conta2.Mostrar();
+            objetoConta.Mostrar();
+
+            
+
+
+
+            /* Conta c3 = new Conta();
             Console.WriteLine("Digite o numero da conta: ");
             c3.numero = Convert.ToInt32(Console.ReadLine());   
             
@@ -35,7 +50,7 @@ namespace classe
             Console.WriteLine("Qual valor quer depositar na conta? ");
             double vd = Convert.ToInt32(Console.ReadLine());
             c3.Depositar(vd);
-            c3.Mostrar();
+            c3.Mostrar(); */
 
             Console.ReadKey();
         }
